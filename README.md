@@ -1,0 +1,1 @@
+Robert Nystrom's `jlox` interpreter implementation from book [Crafting Interpreters](https://www.craftinginterpreters.com). This repository contains the code provided by the author while teaching the concepts. It is **_not_** implemented by me.
